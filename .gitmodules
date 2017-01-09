@@ -1,0 +1,6 @@
+[submodule "The-Optimistic"]
+	path = The-Optimistic
+	url = https://github.com/miketestgit01/The-Optimistic
+[submodule "Github-Repo-Submodulizer"]
+	path = Github-Repo-Submodulizer
+	url = https://github.com/murjax/Github-Repo-Submodulizer
