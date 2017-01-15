@@ -4,3 +4,7 @@
 [submodule "Github-Repo-Submodulizer"]
 	path = Github-Repo-Submodulizer
 	url = https://github.com/murjax/Github-Repo-Submodulizer
+[submodule "fixingGithub"]
+	path = fixingGithub
+	url = https://github.com/MichaelDimmitt/fixingGithub.git
+	branch = master
