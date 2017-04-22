@@ -1,10 +1,10 @@
 [submodule "The-Optimistic"]
 	path = The-Optimistic
 	url = https://github.com/miketestgit01/The-Optimistic
-[submodule "Github-Repo-Submodulizer"]
-	path = Github-Repo-Submodulizer
-	url = https://github.com/murjax/Github-Repo-Submodulizer
 [submodule "fixingGithub"]
 	path = fixingGithub
 	url = https://github.com/MichaelDimmitt/fixingGithub.git
 	branch = master
+[submodule "Github-Map"]
+	path = Github-Map
+	url = https://github.com/mapFactory/Github-Map.git
